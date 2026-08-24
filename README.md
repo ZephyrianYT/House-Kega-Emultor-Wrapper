@@ -27,3 +27,4 @@ Requires Python 3.10 or newer. Drop the single file into your chosen folder, run
 Legal and Privacy Reminder
 
 HouseKega does not include ROMs or BIOS files and will not download copyrighted content. Users must supply their own dumps and verify them against public databases; telemetry is opt‑in only.
+https://bjansen.github.io/scoop-apps/games/kega-fusion/
